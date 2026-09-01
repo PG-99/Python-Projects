@@ -8,9 +8,10 @@ Tracking the 100-project roadmap. One project (or meaningful step) per push.
 | 2 | [Four-Operation Calculator](projects/project-02-four-operation-calculator) | ✅ Done | 2026-08-25 | Operator map, /0 handling, session history, parameterized tests |
 | 3 | [Unit Converter](projects/project-03-unit-converter) | ✅ Done | 2026-08-26 | Dispatch table (NamedTuple), C↔F/km↔mi/kg↔lb, CLI flags, round-trip tests |
 | 4 | [Tip and Bill Splitter](projects/project-04-tip-bill-splitter) | ✅ Done | 2026-08-29 | Decimal money math, half-up cent rounding, NamedTuple result, validation |
-| 5 | Number Guessing Game | ⬜ Next | — | |
-| 6 | Rock-Paper-Scissors Tournament | ⬜ | — | |
+| 5 | [Number Guessing Game](projects/project-05-number-guessing-game) | ✅ Done | 2026-08-31 | Dependency-injected play() loop, hints, difficulty modes, deterministic tests |
+| 6 | Rock-Paper-Scissors Tournament | ⬜ Next | — | |
+| 7 | Mad Libs Story Generator | ⬜ | — | |
 
-**Level 1 — Foundations (1–20):** 4 / 20 complete.
+**Level 1 — Foundations (1–20):** 5 / 20 complete.
 
 _Update this table each day as projects are finished._
