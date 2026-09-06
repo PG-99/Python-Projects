@@ -1,0 +1,8 @@
+BREAKING: {name} just raised ${number} million to disrupt the {industry}
+industry.
+
+Their app lets you {verb} a {noun} from your phone in {adjective} seconds flat.
+"We're basically the {company} of {noun}s," said the {adjective} founder,
+{name}, from a beanbag chair.
+
+Analysts call it the most {adjective} idea since sliced {noun}.

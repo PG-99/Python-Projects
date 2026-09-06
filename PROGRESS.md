@@ -10,9 +10,10 @@ Tracking the 100-project roadmap. One project (or meaningful step) per push.
 | 4 | [Tip and Bill Splitter](projects/project-04-tip-bill-splitter) | ✅ Done | 2026-08-29 | Decimal money math, half-up cent rounding, NamedTuple result, validation |
 | 5 | [Number Guessing Game](projects/project-05-number-guessing-game) | ✅ Done | 2026-08-31 | Dependency-injected play() loop, hints, difficulty modes, deterministic tests |
 | 6 | [Rock-Paper-Scissors Tournament](projects/project-06-rock-paper-scissors) | ✅ Done | 2026-09-02 | Data-driven BEATS table, best-of-N loop, lizard-Spock mode, injected chooser |
-| 7 | Mad Libs Story Generator | ⬜ Next | — | |
-| 8 | Password Strength Checker | ⬜ | — | |
+| 7 | [Mad Libs Story Generator](projects/project-07-mad-libs) | ✅ Done | 2026-09-06 | Formatter().parse() field discovery, dict fill, timestamped save, template files |
+| 8 | Password Strength Checker | ⬜ Next | — | |
+| 9 | Palindrome and Text Analyzer | ⬜ | — | |
 
-**Level 1 — Foundations (1–20):** 6 / 20 complete.
+**Level 1 — Foundations (1–20):** 7 / 20 complete.
 
 _Update this table each day as projects are finished._
